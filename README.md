@@ -1,6 +1,6 @@
 # Music-Pitch-Recognition-by-CNN
 ![Image Encryption Based on AES](docs/images/example.png)
-Project assignment of Deep Learning course in Taiwan, NDHU CSIE.
+_Project assignment of Deep Learning course in Taiwan, NDHU CSIE_
 ----
 
 ## Assignment descriptions
@@ -17,4 +17,3 @@ P.S.: You may need to learn how to read each image as a numpy array and then con
 ### Data fields
 * image filename - the filename of the image (String)
 * category label - the label of the image (Integer)
-
